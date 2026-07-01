@@ -32,9 +32,9 @@ Provide small businesses with powerful AI tools that run entirely on their own h
 ## Development
 
 Proof of concept built on a home lab that mirrors the customer deployment pattern:
-- Storage NAS
-- Dell Precision 7910 workstation (LLM inference)
-- MSI workstation with RTX 4050 (development + GPU inference)
+- Network-attached storage
+- Multi-socket workstation (LLM inference)
+- GPU-accelerated development workstation
 
 ## Status
 
